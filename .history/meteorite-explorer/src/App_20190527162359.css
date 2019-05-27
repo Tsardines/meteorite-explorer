@@ -1,0 +1,12 @@
+tr:nth-child(odd) {
+  /* background-color: teal; */
+}
+/* 
+body {
+  display: flex;
+} */
+
+.theader {
+  background-color: teal;
+  padding-right: 1rem;
+}

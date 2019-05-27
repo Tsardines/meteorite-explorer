@@ -1,0 +1,17 @@
+
+
+.theader {
+  background-color: rgb(245, 136, 63);
+}
+
+.theader th {
+  padding-right: 1rem;
+}
+
+.table-main {
+  background-color: bisque;
+}
+
+.table-main:nth-child(even) {
+  background-color: aquamarine;
+}

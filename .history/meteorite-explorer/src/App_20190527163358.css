@@ -1,0 +1,21 @@
+.wrapper {
+  background-color: aqua;
+  height: 30rem;
+  overflow-y: scroll;
+}
+
+.my-table:nth-child(odd) {
+  background-color: rgb(250, 161, 101);
+}
+
+/* .theader th {
+  padding-right: 1rem;
+} */
+
+/* .table-main {
+  background-color: bisque;
+}
+
+.table-main:nth-child(even) {
+  background-color: aquamarine;
+} */

@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(39, 39, 39);
+}
+
+.header {
+  background-color: rgb(71, 37, 192);
+  color: white;
+  font-size: 2rem;
+  height: 5rem;
+  text-align: center;
+}
+
+.wrapper {
+  /* background-color: aqua; */
+  height: 35rem;
+  overflow-y: scroll;
+}
+
+.my-table {
+  background-color: white;
+  margin: 10rem auto;
+}
+
+.my-table tr:nth-child(odd):hover {
+  background-color: rgb(143, 143, 143);
+}
+
+/* .theader th {
+  padding-right: 1rem;
+} */
+
+/* .table-main {
+  background-color: bisque;
+}
+
+.table-main:nth-child(even) {
+  background-color: aquamarine;
+} */

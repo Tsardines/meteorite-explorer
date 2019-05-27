@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(39, 39, 39);
+}
+
+.header {
+  background-color: rgb(71, 37, 192);
+  color: white;
+  font-size: 2rem;
+  height: 3rem;
+  padding: 1.5rem 0;
+  text-align: center;
+}
+
+.wrapper {
+  /* background-color: aqua; */
+  height: 35rem;
+  overflow-y: scroll;
+}
+
+.my-table {
+  background-color: white;
+  margin: 10rem auto;
+  width: 100%;
+}
+
+.my-table tr:nth-child(odd):hover {
+  background-color: rgb(143, 143, 143);
+}
+
+thead > th {
+  text-align: left;
+}
+
+/* .theader th {
+  padding-right: 1rem;
+} */
+
+/* .table-main {
+  background-color: bisque;
+}
+
+.table-main:nth-child(even) {
+  background-color: aquamarine;
+} */

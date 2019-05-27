@@ -1,0 +1,16 @@
+tr:nth-child(odd) {
+  /* background-color: teal; */
+}
+/* 
+body {
+  display: flex;
+} */
+
+.theader th {
+  background-color: teal;
+  padding-right: 1rem;
+}
+
+.table-main:nth-child(even) {
+  background-color: aquamarine;
+}

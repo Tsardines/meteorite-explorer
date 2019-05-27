@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Tsardines/meteorite-explorer/issues"
   },
-  "homepage": "https://github.com/Tsardines/meteorite-explorer#readme"
+  "homepage": "https://github.com/Tsardines/meteorite-explorer#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "react-bootstrap": "^1.0.0-beta.8"
+  }
 }

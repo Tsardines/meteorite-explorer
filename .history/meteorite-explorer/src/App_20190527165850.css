@@ -1,0 +1,34 @@
+body {
+  margin: 2rem;
+}
+
+.header {
+  background-color: rgb(71, 37, 192);
+  color: white;
+  font-size: 2rem;
+  height: 3rem;
+  padding: 1.5rem 0;
+  text-align: center;
+}
+
+.wrapper {
+  background-color: rgb(39, 39, 39);
+}
+
+.my-table {
+  background-color: white;
+  height: 20rem;
+  margin: 5rem auto;
+  overflow-y: scroll;
+  width: 90%;
+}
+
+tr:nth-child(odd):hover {
+  background-color: rgb(143, 143, 143);
+}
+
+thead > th {
+  text-align: left;
+}
+
+

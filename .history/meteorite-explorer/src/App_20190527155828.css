@@ -1,0 +1,7 @@
+td:nth-child(odd) {
+  background-color: teal;
+}
+
+body {
+  display: flex;
+}
