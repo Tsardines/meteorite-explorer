@@ -8,8 +8,7 @@ class App extends Component {
       super(props);
 
     this.state = {
-      items: [],
-      value: ''
+      items: []
     };
     this.componentWillMount = this.componentWillMount.bind(this);
   }
@@ -29,7 +28,7 @@ class App extends Component {
 
   render() {
 
-    const { items, value } = this.state;
+    const { items } = this.state;
 
     return (
 
@@ -37,7 +36,7 @@ class App extends Component {
       <div className="wrapper">
         <div className="header">Meteorite Explorer</div>
 
-        {/* <input type="text" placeholder="Enter search terms" value={value} onChange={this.handleChange} /> */}
+        <input type="text" placeholder="Enter search terms" value={value} onChange={this.handleChange} />
 
         <table className="my-table">
           <thead>

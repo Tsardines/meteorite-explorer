@@ -17,8 +17,8 @@ body {
 
 .my-table {
   background-color: white;
-  /* height: 20rem; */
-  margin: 3rem auto;
+  height: 20rem;
+  margin: 5rem auto;
   overflow-y: scroll;
   width: 90%;
 }
