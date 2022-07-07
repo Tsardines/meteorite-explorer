@@ -18,7 +18,7 @@
   "homepage": "https://github.com/Tsardines/meteorite-explorer#readme",
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react-bootstrap": "^1.0.0-beta.8",
     "react-moment": "^0.9.2"
   }
